@@ -1,8 +1,8 @@
 # Spark-playground
 ## Project list
 <ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+<li>Job statistics</li>
+<li>Cloud/entity generation</li>
+<li>Position corrector</li>
+<li>Finantial anomaly analysis</li>
 </ol>
