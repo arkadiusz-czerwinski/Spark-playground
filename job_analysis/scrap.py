@@ -42,6 +42,13 @@ try:
         all_jobs.append(jobs)
 except: 
     print(f'Found {len(all_jobs)} jobs')
+    for job in all_jobs:
+        job.click()
+        sleep(3)
+        driver.find_element_by_xpath("/html/body/main/section/div[2]/section[2]/div/section/button[1]").click()
+        sleep(3)
+        element = driver.find_element_by_xpath(r'/html/body/main/section/div[2]/section[2]/div')
+        print(element.text)
     pass
 
 
