@@ -1,0 +1,165 @@
+1613941702355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2tppu5WZw6rI"
+1613941704636	Marionette	INFO	Listening on port 35693
+1613941704686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613941704702	Marionette	ERROR	[15] No reply from Marionette:Register
+1613941726607	Marionette	INFO	Stopped listening on port 35693
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613941819295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T0lhftYGTdF4"
+1613941821384	Marionette	INFO	Listening on port 34321
+1613941821425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613941821443	Marionette	ERROR	[15] No reply from Marionette:Register
+1613941823022	Marionette	INFO	Stopped listening on port 34321
+1613941837983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ulCoGVJ3fKDa"
+1613941839757	Marionette	INFO	Listening on port 43995
+1613941839813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613941839827	Marionette	ERROR	[15] No reply from Marionette:Register
+1613941844489	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+1613942004886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4MgXtlpGjCws"
+1613942006788	Marionette	INFO	Listening on port 46867
+1613942006822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942006838	Marionette	ERROR	[15] No reply from Marionette:Register
+1613942107013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x8Yf9vj0Hn75"
+1613942108974	Marionette	INFO	Listening on port 46265
+1613942109043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942109063	Marionette	ERROR	[15] No reply from Marionette:Register
+1613942187520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hHUVfONNVFAv"
+1613942189751	Marionette	INFO	Listening on port 46737
+1613942189854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942189870	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+1613942245082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IKo8PBgly28G"
+1613942247090	Marionette	INFO	Listening on port 36487
+1613942247206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942247218	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+1613942302380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KsYrvaNJapoN"
+1613942304179	Marionette	INFO	Listening on port 34653
+1613942304205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942304220	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+1613942339325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uBP5WYWD38qZ"
+1613942341253	Marionette	INFO	Listening on port 39291
+1613942341352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942341367	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+1613942348141	Marionette	ERROR	[33] No reply from Marionette:Register
+1613942384027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CwQiBekRQV0e"
+1613942386191	Marionette	INFO	Listening on port 41403
+1613942386257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942386271	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613942407710	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
+1613942588793	Marionette	INFO	Stopped listening on port 41403
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1613942594849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2fGCZdY5dkql"
+1613942596783	Marionette	INFO	Listening on port 33805
+1613942596883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942596902	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613942686551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ssY3ZvqbkZYD"
+1613942688335	Marionette	INFO	Listening on port 36811
+1613942688373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942688390	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613942726830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ShNYPlkgVPxt"
+1613942728681	Marionette	INFO	Listening on port 38215
+1613942728769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942728792	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613942860004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OnXLuiYQNzq4"
+1613942861940	Marionette	INFO	Listening on port 36951
+1613942862036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942862055	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613942884208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H8AuxpiAKgMA"
+1613942886197	Marionette	INFO	Listening on port 36005
+1613942886241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942886258	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613942932230	Marionette	ERROR	[33] No reply from Marionette:Register
+1613942962713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RIBDUr9JPqC8"
+1613942964758	Marionette	INFO	Listening on port 39663
+1613942964846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613942964860	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613943038675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1zQFVGY5y4tW"
+1613943040530	Marionette	INFO	Listening on port 44175
+1613943040612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943040625	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613943054199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.23edv6Rq3bXB"
+1613943056116	Marionette	INFO	Listening on port 43131
+1613943056239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943056254	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
+1613943076581	Marionette	ERROR	[33] No reply from Marionette:Register
+1613943145943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jowtBNodp1gk"
+1613943147881	Marionette	INFO	Listening on port 43235
+1613943147974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943147993	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+1613943162441	Marionette	INFO	Stopped listening on port 43235
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613943187647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.umDduiOPyfJM"
+1613943189521	Marionette	INFO	Listening on port 46383
+1613943189579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943189598	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
+1613943208609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tgeHfaPjZnya"
+1613943210610	Marionette	INFO	Listening on port 42701
+1613943210642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943210657	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
+1613943229586	Marionette	ERROR	[33] No reply from Marionette:Register
+1613943293061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WHSHsQ1lDOuD"
+1613943294983	Marionette	INFO	Listening on port 39299
+1613943295094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943295116	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
+1613943337145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cY4rzcZH9Acw"
+1613943339066	Marionette	INFO	Listening on port 40809
+1613943339171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613943339187	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
