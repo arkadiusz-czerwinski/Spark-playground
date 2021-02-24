@@ -346,3 +346,210 @@ JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, 
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1614189413783	Marionette	INFO	Listening on port 52505
 1614189413904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614189918717	geckodriver	INFO	Listening on 127.0.0.1:65201
+1614189921830	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileQUmeFf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614189924639	Marionette	INFO	Listening on port 65214
+1614189925018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: , line 0: uncaught exception: Object
+1614189994377	geckodriver	INFO	Listening on 127.0.0.1:64312
+1614189997502	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofilefnOgaa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614189999945	Marionette	INFO	Listening on port 64324
+1614190000171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614190035819	Marionette	INFO	Stopped listening on port 64324
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614190038870	geckodriver	INFO	Listening on 127.0.0.1:64390
+1614190041937	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileCEKwLH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190044596	Marionette	INFO	Listening on port 64398
+1614190044614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614190073863	Marionette	INFO	Stopped listening on port 64398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614190081751	geckodriver	INFO	Listening on 127.0.0.1:64453
+1614190084848	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileIDehL8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190087346	Marionette	INFO	Listening on port 64465
+1614190087524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614190216842	geckodriver	INFO	Listening on 127.0.0.1:49725
+1614190219951	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofilexTpG9Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190222490	Marionette	INFO	Listening on port 49738
+1614190222620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614190255691	geckodriver	INFO	Listening on 127.0.0.1:60963
+1614190258724	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofile3QwgIg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190261444	Marionette	INFO	Listening on port 60980
+1614190261881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614190322521	geckodriver	INFO	Listening on 127.0.0.1:61063
+1614190325620	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileUjOH5y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190329934	Marionette	INFO	Listening on port 61075
+1614190330455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614190474538	geckodriver	INFO	Listening on 127.0.0.1:51179
+1614190477659	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofilebAKUhS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190479992	Marionette	INFO	Listening on port 51192
+1614190480322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614190653935	geckodriver	INFO	Listening on 127.0.0.1:51290
+1614190657048	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileYuyHQV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190659574	Marionette	INFO	Listening on port 51303
+1614190659720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614190831461	geckodriver	INFO	Listening on 127.0.0.1:50927
+1614190834495	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofile63V7zX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614190837094	Marionette	INFO	Listening on port 50940
+1614190837163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614190985529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1614191024457	geckodriver	INFO	Listening on 127.0.0.1:51045
+1614191027573	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofilesbad3Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191030193	Marionette	INFO	Listening on port 51058
+1614191030248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614191108858	geckodriver	INFO	Listening on 127.0.0.1:60663
+1614191112109	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileQXQ15y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191114707	Marionette	INFO	Listening on port 60680
+1614191114776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614191260865	geckodriver	INFO	Listening on 127.0.0.1:52629
+1614191263963	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileXygp4d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191266410	Marionette	INFO	Listening on port 52641
+1614191266629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+1614191315911	geckodriver	INFO	Listening on 127.0.0.1:52719
+1614191318957	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileAK26Bn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191321690	Marionette	INFO	Listening on port 52728
+1614191322163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614191426902	geckodriver	INFO	Listening on 127.0.0.1:52818
+1614191429996	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileXtVQdC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191432747	Marionette	INFO	Listening on port 52831
+1614191433154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614191476524	geckodriver	INFO	Listening on 127.0.0.1:52897
+1614191479562	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofilek8mUCj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191482143	Marionette	INFO	Listening on port 52914
+1614191482230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614191544176	geckodriver	INFO	Listening on 127.0.0.1:52982
+1614191547258	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileihprxJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191550073	Marionette	INFO	Listening on port 52994
+1614191550444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614191854315	geckodriver	INFO	Listening on 127.0.0.1:54425
+1614191857415	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileTi1zO0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191860008	Marionette	INFO	Listening on port 54438
+1614191860085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614191976919	geckodriver	INFO	Listening on 127.0.0.1:54519
+1614191979994	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofiledVAnR2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614191983008	Marionette	INFO	Listening on port 54532
+1614191983172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614192161177	geckodriver	INFO	Listening on 127.0.0.1:54654
+1614192164298	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileUCSqxD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614192166903	Marionette	INFO	Listening on port 54666
+1614192166961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614192302586	geckodriver	INFO	Listening on 127.0.0.1:54762
+1614192305658	mozrunner::runner	INFO	Running command: "D:\\Zainstalowane\\Mozilla ESR\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAL~1.SOS\\AppData\\Local\\Temp\\rust_mozprofileJSExiZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614192307875	Marionette	INFO	Listening on port 54774
+1614192308337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null

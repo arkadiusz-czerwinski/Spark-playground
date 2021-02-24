@@ -42,6 +42,7 @@ try:
         iterr += 1
         all_jobs.append(jobs)
 except: 
+    # Zamykanie okienka o plikach cookies
     driver.find_element_by_xpath("/html/body/div[1]/div[1]/section/div/div[2]/button[2]").click()
     print(f'Found {len(all_jobs)} jobs')
     for job in all_jobs:
@@ -49,8 +50,14 @@ except:
         sleep(3)
         driver.find_element_by_xpath("/html/body/main/section/div[2]/section[2]/div/section/button[1]").click()
         sleep(3)
-        element = driver.find_element_by_xpath(r'/html/body/main/section/div[2]/section[2]/div')
-        print(element.text)
+        description = driver.find_element_by_xpath(r'/html/body/main/section/div[2]/section[2]/div').text
+        found_job_title = driver.find_element_by_xpath("/html/body/main/section/div[2]/section[1]/div[1]/div[1]/a/h2").text
+        found_company_name = driver.find_element_by_xpath("/html/body/main/section/div[2]/section[1]/div[1]/div[1]/h3[1]/span[1]").text
+        found_offer_date = driver.find_element_by_xpath("/html/body/main/section/div[2]/section[1]/div[1]/div[1]/h3[2]/span").text
+        found_location = driver.find_element_by_xpath("/html/body/main/section/div[2]/section[1]/div[1]/div[1]/h3[1]/span[2]").text
+        data_dict = {"Job title": found_job_title, "Company name": found_company_name, "Offer date": found_offer_date, "Location": found_location, "Description": description, "_id": found_location + " - " + found_company_name + " - " + job_title}
+        mycol.insert_one(data_dict)
+        print(data_dict)
     pass
 
 
