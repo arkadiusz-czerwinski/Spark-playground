@@ -10,6 +10,7 @@ driver = webdriver.Firefox()
 driver.get('https://pl.linkedin.com/jobs')
 job_title = "Data Scientist"
 localization = "Polska"
+print("On page")
 job_section = driver.find_element_by_xpath(r'/html/body/main/section[1]/section/div[2]/section[2]/form/section[1]/input')
 job_section.send_keys(job_title)
 localization_section = driver.find_element_by_xpath(r'/html/body/main/section[1]/section/div[2]/section[2]/form/section[2]/input')
@@ -41,6 +42,7 @@ try:
         iterr += 1
         all_jobs.append(jobs)
 except: 
+    driver.find_element_by_xpath("/html/body/div[1]/div[1]/section/div/div[2]/button[2]").click()
     print(f'Found {len(all_jobs)} jobs')
     for job in all_jobs:
         job.click()

@@ -260,3 +260,89 @@ JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-fro
 JavaScript error: https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh, line 1: TypeError: this._liveTextEl is null
 JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: e.tracking is undefined
 JavaScript error: https://static-exp1.licdn.com/sc/p/com.linkedin.jobs-guest-frontend%3Ajobs-guest-frontend-static-content%2B2.0.13/f/%2Fjobs-guest-frontend%2Fdist%2FguestHouseJobsSearch.js, line 1: TypeError: this.window.searchTracking is undefined
+1614106279547	geckodriver	INFO	Listening on 127.0.0.1:49723
+1614106282682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofiletQ574Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106285228	Marionette	INFO	Listening on port 49737
+1614106285354	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015A,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+mozprofilesa134W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106368321	Marionette	INFO	Listening on port 49878
+1614106368414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/aboutNetError.js, line 367: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015A,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+1614106558387	geckodriver	INFO	Listening on 127.0.0.1:49881
+1614106561492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofileF1zr6X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106563954	Marionette	INFO	Listening on port 49907
+1614106564146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614106599405	geckodriver	INFO	Listening on 127.0.0.1:49983
+1614106602596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofilebh20tN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106604559	Marionette	INFO	Listening on port 49997
+1614106604661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614106618655	Marionette	INFO	Stopped listening on port 49997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614106622094	geckodriver	INFO	Listening on 127.0.0.1:50056
+1614106625247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofileRdwTJz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106627421	Marionette	INFO	Listening on port 50069
+1614106627894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614106897090	geckodriver	INFO	Listening on 127.0.0.1:50298
+1614106900304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofile1ixaCT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106902245	Marionette	INFO	Listening on port 50312
+1614106902363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614106910232	geckodriver	INFO	Listening on 127.0.0.1:50366
+1614106913335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofileZSJPe3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106915303	Marionette	INFO	Listening on port 50376
+1614106915390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614106926742	geckodriver	INFO	Listening on 127.0.0.1:50431
+1614106929809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofileoHdRbE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614106931795	Marionette	INFO	Listening on port 50441
+1614106931850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1614188850217	geckodriver	INFO	Listening on 127.0.0.1:52148
+1614188853304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofileT5LjlJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614188855408	Marionette	INFO	Listening on port 52161
+1614188855459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/c6kt9o5r2bunemjkdgnodnb80, line 1: TypeError: e is undefined
+JavaScript warning: https://static-exp1.licdn.com/sc/h/autwz8cn35djjox10w3z1llr8, line 6087: unreachable code after return statement
+1614188862877	Marionette	INFO	Stopped listening on port 52161
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614188865852	geckodriver	INFO	Listening on 127.0.0.1:52231
+1614188868949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofilePw4x1q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614188870894	Marionette	INFO	Listening on port 52241
+1614188871008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614189363785	geckodriver	INFO	Listening on 127.0.0.1:52410
+1614189366867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofiled08UL7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614189368765	Marionette	INFO	Listening on port 52423
+1614189368904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/3mm6i30e1k02lw83tzzw82uc3, line 1: TypeError: this._liveTextEl is null
+1614189408665	geckodriver	INFO	Listening on 127.0.0.1:52494
+1614189411756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arek\\AppData\\Local\\Temp\\rust_mozprofilep0wvGY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614189413783	Marionette	INFO	Listening on port 52505
+1614189413904	Marionette	WARN	TLS certificate errors will be ignored for this session
