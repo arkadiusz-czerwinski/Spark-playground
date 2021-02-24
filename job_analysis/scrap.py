@@ -61,11 +61,5 @@ except:
     pass
 
 
-
-
 sleep(200)
 driver.close()
-
-# Tutaj scripting
-# mydict = { "name": "John", "address": "Highway 37" }
-# x = mycol.insert_one(mydict)
